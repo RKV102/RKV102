@@ -1,22 +1,20 @@
-### О себе
+Привет 👋
 
-Талантливый Python-разработчик с опытом создания нескольких проектов. 
-Слежу за качеством кода благодаря Flake8 и Code Climate, пишу тесты, использую Git и создаю workflows в Github Actions.
+Меня зовут Роман, и я начинающий Python-разработчик.
 
-### Навыки
+На данный момент, ищу стажировку или работу на должность Junior Python-developer.
 
-- Python
-- Git
-- GitHub Actions
-- Code Climate
-- Linux
-- Windows
-- Начальные знания английского языка
+### CV
 
-### Ход жизни
+https://cv.hexlet.io/ru/resumes/3646
 
-Более подробную информацию обо мне Вы можете узнать на [Hexlet CV](https://cv.hexlet.io/ru/resumes/3646)
+### Инструменты
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Poetry](https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Контакты
-- email: laworp@yandex.ru
-- telegram: @RomanKryIov
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/RomanKrylov)
