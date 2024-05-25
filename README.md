@@ -6,20 +6,15 @@ I am an aspiring python developer from Ufa, Russia, looking for an internship or
 
 ### Education
 
-- USATU, Applied computer science, Bachelor's degree
-- UUST, Information security, Master's degree. Education in progress
+- USATU, 09.03.03 Applied computer science, Bachelor's degree
+- UUST, 10.03.01 Information security, Master's degree. Education in progress
 - Hexlet, Python developer. Education in progress
 
 ### Skills
 
-#### Fundamental Skills
-
 - HTTP
 - Windows
 - Linux
-
-#### Applied skills
-
 - Python
 - Pytest
 - Poetry
