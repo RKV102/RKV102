@@ -19,6 +19,7 @@ I am an aspiring python developer from Ufa, Russia, looking for an internship or
 - Pytest
 - Poetry
 - Flake8
+- Flask
 - Git
 - GitHub Actions
 
